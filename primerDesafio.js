@@ -1,4 +1,4 @@
-let primero;
+/* let primero;
 let segundo;
 let tercero;
 let cuarto;
@@ -46,4 +46,4 @@ if (respuesta == "no"){
     for ( let i = 0; i < admins.length; i++) {
         document.write ("contáctese con el administrador " + admins[i] + "<br>");
         }
-}
+} */
